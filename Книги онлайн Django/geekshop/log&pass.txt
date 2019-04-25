@@ -1,0 +1,7 @@
+ADMIN
+log: django
+pass: geekbrains
+
+USER
+log: Ivan
+pass: 12121212Qq

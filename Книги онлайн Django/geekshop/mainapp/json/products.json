@@ -1,0 +1,74 @@
+[
+    {
+        "category": "любовные романы",
+        "name": "О, мой босс!",
+        "image": "products_images/product-1.jpg",
+        "short_desc": "Ви Киланд",
+        "description": "Современный любовный роман",
+        "price": "2989.5",
+        "quantity": "17"
+    },
+    {
+        "category": "любовные романы",
+        "name": "“Утреннее сияние",
+        "image": "products_images/product-2.jpg",
+        "short_desc": "Сара Джио",
+        "description": "Зарубежный любовный роман",
+        "price": "3687.2",
+        "quantity": "21"
+    },
+    {
+        "category": "книги по психологии",
+        "name": "НИ СЫ",
+        "image": "products_images/product-4.jpg",
+        "short_desc": "Джен Синсеро",
+        "description": " Будь уверен в своих силах",
+        "price": "1895.25",
+        "quantity": "25"
+    },
+    {
+        "category": "книги по психологии",
+        "name": "Тонкое искусство пофигизма",
+        "image": "products_images/product-5.jpg",
+        "short_desc": "Марк Мэнсон",
+        "description": "Парадоксальный способ жить счастливо",
+        "price": "3587.41",
+        "quantity": "9"
+    },
+    {
+        "category": "бизнес-книги",
+        "name": "Богатый папа, бедный папа",
+        "image": "products_images/product-6.jpg",
+        "short_desc": "Роберт Кийосаки",
+        "description": "Для широкого круга читателей",
+        "price": "5361.47",
+        "quantity": "18"
+    },
+    {
+        "category": "бизнес-книги",
+        "name": "Думай и богатей",
+        "image": "products_images/product-7.jpg",
+        "short_desc": "Наполеон Хилл",
+        "description": "Для широкого круга читателей",
+        "price": "6789.33",
+        "quantity": "12"
+    },
+    {
+        "category": "классика",
+        "name": "Анна Каренина",
+        "image": "products_images/product-8.jpg",
+        "short_desc": "Лев Толстой",
+        "description": "Русская классика",
+        "price": "4147.51",
+        "quantity": "25"
+    },
+    {
+        "category": "классика",
+        "name": "Атлант расправил плечи",
+        "image": "products_images/product-9.jpg",
+        "short_desc": "Айн Рэнд",
+        "description": "ЗарубежнаЯ классика",
+        "price": "7147.35",
+        "quantity": "18"
+    }
+]
