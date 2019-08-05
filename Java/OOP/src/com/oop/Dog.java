@@ -4,15 +4,15 @@ public class Dog {
 
     private static int dogsCount;
 
-    private int paws;
-    private int tail;
+    public static final int PAWS = 4;
+    public static final int TAIL = 1;
     private String name;
     private String breed;
-    private String size;
+    private Size size;
 
     public Dog() {
         dogsCount++;
-        System.out.println("Количество собак: "+dogsCount);
+        System.out.println("Количество собак: " + dogsCount);
 
     }
 
@@ -21,18 +21,12 @@ public class Dog {
     }
 
 
-    public String getSize() {
+    public Size getSize() {
         return size;
     }
 
-    public void setSize(String size) {
-        if (size.equalsIgnoreCase("Big") ||
-                size.equalsIgnoreCase("Average") ||
-                size.equalsIgnoreCase("Small")) {
-            this.size = size;
-        } else {
-            System.out.println("Размер должен быть одни из этих трех: Большой, Средний или Маленький");
-        }
+    public void setSize(Size size) {
+        this.size = size;
     }
 
     public void setName(String name) {
@@ -41,38 +35,6 @@ public class Dog {
 
     public String getName() {
         return name;
-    }
-
-    public void setPaws(int paws) {
-        if (paws == 4) {
-            this.paws = paws;
-
-        } else {
-            this.paws = 4;
-//            System.out.println("Введено не правильное количество лап " + paws + " для собаки");
-//            System.out.println("Правильное значение 4");
-//            System.out.println("Лабрадор имеет " + getPaws() + " лапы");
-
-        }
-
-    }
-
-    public int getPaws() {
-        return paws;
-    }
-
-    public int getTail() {
-        return tail;
-    }
-
-    public void setTail(int tail) {
-        if (tail == 1) {
-            this.tail = tail;
-        } else {
-            this.tail = 1;
-            System.out.println("Введено не правильное количество хвостов " + tail + " для собаки");
-            System.out.println("Правильное значение 1");
-        }
     }
 
     public String getBreed() {
@@ -84,23 +46,25 @@ public class Dog {
     }
 
     public void bark() {
-        if (size.equalsIgnoreCase("Big")) {
-            System.out.println("Воффф вофф!");
-        } else if (size.equalsIgnoreCase("Average")) {
-            System.out.println("РАфф рафф!");
-        } else {
-            System.out.println("Тяфффф!");
-        }
 
+        switch (size) {
+            case BIG:
+            case VERY_BIG:
+                System.out.println("Воффф вофф!");
+                break;
+            case AVERAGE:
+                System.out.println("РАфф рафф!");
+                break;
+            case SMALL:
+            case VERY_SMALL:
+                System.out.println("Тяфффф!");
+                break;
+        }
     }
 
     public void bite() {
         if (dogsCount > 2) {
             System.out.println("Вас кусают собаки!");
-        } else {
-            bark();
-        }
-
-
+        } else bark();
     }
 }
