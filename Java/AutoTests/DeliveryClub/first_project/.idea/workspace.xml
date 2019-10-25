@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bea1907-55ae-40d6-8ad4-ab1add27ea73" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="309785cf-62de-442d-a645-58e3273b4554" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/deliveryClub/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/deliveryClub/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/deliveryClub/FirstTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,24 +18,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java">
+      <file leaf-file-name="Assert.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-3/junit-4.13-beta-3-sources.jar!/org/junit/Assert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state relative-caret-position="135">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#1526#1527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebDriverSettings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/deliveryClub/WebDriverSettings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -43,10 +75,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/deliveryClub/WebDriverSettings.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java" />
       </list>
     </option>
@@ -60,22 +95,26 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1614" />
+    <option name="height" value="825" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,15 +154,14 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,29 +193,6 @@
       <option name="MAIN_CLASS_NAME" value="ru.deliveryClub.FirstTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FirstTest.FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.deliveryClub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.deliveryClub" />
-      <option name="MAIN_CLASS_NAME" value="ru.deliveryClub.FirstTest" />
-      <option name="METHOD_NAME" value="FirstTest" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -249,7 +264,6 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FirstTest.FirstTest" />
       <item itemvalue="JUnit.FirstTest" />
       <item itemvalue="JUnit.FirstTest.firstTest" />
     </list>
@@ -257,7 +271,6 @@
       <list>
         <item itemvalue="JUnit.FirstTest" />
         <item itemvalue="JUnit.FirstTest.firstTest" />
-        <item itemvalue="JUnit.FirstTest.FirstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -266,81 +279,77 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2bea1907-55ae-40d6-8ad4-ab1add27ea73" name="Default" comment="" />
-      <created>1571831208531</created>
+      <changelist id="309785cf-62de-442d-a645-58e3273b4554" name="Default" comment="" />
+      <created>1571843697401</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571831208531</updated>
-      <workItem from="1571831214420" duration="3851000" />
+      <updated>1571843697401</updated>
+      <workItem from="1571843698674" duration="787000" />
+      <workItem from="1572003709244" duration="2672000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 07m 00s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 08m 12s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 08m 44s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 10m 31s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 12m 08s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 13m 12s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_FirstTest - 2019.10.23 at 16h 16m 57s.xml">
-      <configuration name="FirstTest.FirstTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest - 2019.10.23 at 16h 24m 25s.xml">
+    <history-entry file="FirstTest - 2019.10.25 at 14h 57m 12s.xml">
       <configuration name="FirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.10.23 at 16h 26m 57s.xml">
+    <history-entry file="FirstTest_firstTest - 2019.10.25 at 14h 59m 28s.xml">
       <configuration name="FirstTest.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest - 2019.10.23 at 16h 29m 49s.xml">
+    <history-entry file="FirstTest_firstTest - 2019.10.25 at 15h 06m 10s.xml">
+      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest - 2019.10.25 at 15h 09m 55s.xml">
+      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest - 2019.10.25 at 15h 19m 11s.xml">
+      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2019.10.25 at 15h 19m 53s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2019.10.25 at 15h 21m 08s.xml">
+      <configuration name="FirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstTest - 2019.10.25 at 15h 26m 38s.xml">
       <configuration name="FirstTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3851000" />
+    <option name="totallyTimeSpent" value="3459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1614" height="825" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32900944" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50069445" side_tool="true" weight="0.32900944" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32900944" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49930555" weight="0.32756326" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.32978722" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3981358" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22304833" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,111 +358,65 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="566" selection-start-line="566" selection-end-line="566" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state relative-caret-position="630">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>first_project</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_project.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-3/junit-4.13-beta-3-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#1526#1527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/deliveryClub/WebDriverSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
